@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Login-Form-App/static/css/main.666dbd63.css",
+    "main.js": "/Login-Form-App/static/js/main.183dde4a.js",
+    "static/js/787.2a25c2bc.chunk.js": "/Login-Form-App/static/js/787.2a25c2bc.chunk.js",
+    "static/media/user.png": "/Login-Form-App/static/media/user.8d71892cb40131d6907f.png",
+    "static/media/dashboard.png": "/Login-Form-App/static/media/dashboard.21342c21119d6d1f0388.png",
+    "index.html": "/Login-Form-App/index.html",
+    "main.666dbd63.css.map": "/Login-Form-App/static/css/main.666dbd63.css.map",
+    "main.183dde4a.js.map": "/Login-Form-App/static/js/main.183dde4a.js.map",
+    "787.2a25c2bc.chunk.js.map": "/Login-Form-App/static/js/787.2a25c2bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.666dbd63.css",
+    "static/js/main.183dde4a.js"
+  ]
+}
